@@ -1,0 +1,14 @@
+{
+  "name": "memisahkan-file",
+  "version": "1.0.0",
+  "description": "memisahkan-file",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tes"
+  ],
+  "author": "yusuf taqiyuddin",
+  "license": "ISC"
+}
